@@ -1,0 +1,16 @@
+Population&Sample:
+Population mean: sum(X)/N
+Sample mean:sum(X)/n
+Population variance:sum(x(I)-mean)^2/N
+Sample variance:sum(x(I)-mean)^2/(n-1)(sample generally has smaller size and var is smaller, divided by n-1 make it get bigger)
+var=E(x^2)-E(x)^2
+Variable:
+Continuous&Discrete, for continuous only interval probably is available, any specific point p is 0.
+Binomial Distribution:
+C(n,k) * p^k * (1-p)^(n-k)
+E(x)=np
+Law of large numbers:
+the average of the results obtained from a large number of trials should be close to the expected value, and will tend to become closer as more trials are performed.
+Normal Distribution:
+{\displaystyle \varphi (x)={\frac {1}{\sqrt {2\pi }}}e^{-{\frac {1}{2}}x^{2}}}
+Z-score:z = (x – μ) / σ
